@@ -1,6 +1,6 @@
 # GRC Portfolio Project — FinBank Ltd
 
-This folder includes ready-to-use templates and example content for a simulated risk & compliance assessment.
+This folder includes templates and example content for a simulated risk & compliance assessment for a fictitious company where I assessed risks, checked compliance, and prepared audit-ready documents
 
 ## Scenario
 Industry: Financial Services (UK-based fintech handling payment data)
@@ -17,7 +17,7 @@ Assessment Date: 2025-09-09
 
 ## How to Use (Step-by-Step)
 1. **Define/Refine Scope**: Update the scenario (industry, systems, data flows, regulations) to match your target company profile.
-2. **Populate Risk Register**: Add assets, threats, vulnerabilities; set impact and likelihood (1–5). The sheet auto-calculates Risk Score and category.
+2. **Populate Risk Register**: Add assets, threats, vulnerabilities; set impact and likelihood (1–5). The sheet auto-calculates the Risk Score and category.
 3. **Plan Treatments**: For each High/Medium risk, add recommended actions, owners, and target dates.
 4. **Fill Compliance Checklists**: For each control/requirement, record evidence, status (✅/⚠️/❌), gaps, and actions.
 5. **Run an Internal Audit**: Use the audit template to review key controls; document findings, severity, and management responses.
